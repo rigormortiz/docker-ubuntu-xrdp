@@ -17,5 +17,3 @@ RUN apt-get update -y && \
 ADD xrdp.conf /etc/supervisor/conf.d/xrdp.conf
 
 EXPOSE 3389
-
-CMD ["/usr/bin/supervisord", "-n"]
