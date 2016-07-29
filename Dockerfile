@@ -1,4 +1,4 @@
-FROM rigormortiz/ubuntu-supervisor:xenial
+FROM rigormortiz/ubuntu-supervisor:latest
 
 MAINTAINER Mike Ortiz <mike@jellydice.com>
 
