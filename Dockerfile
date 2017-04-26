@@ -1,4 +1,4 @@
-FROM rigormortiz/ubuntu-supervisor:0.1
+FROM rigormortiz/ubuntu-supervisor:zesty
 
 MAINTAINER Mike Ortiz <mike@jellydice.com>
 
